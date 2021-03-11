@@ -1,0 +1,5 @@
+Git Assignment Steps -
+
+1) Created 5 branches (dev , feature , production , QA , delievery).
+2) Added files via command line and GUI both.
+3) Pushed code and merged pull requests across branches.
